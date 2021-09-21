@@ -1,6 +1,7 @@
 # CPSC350_FA21_ASSIGNMENT1_BERTAGNA
 Assignment 1: Tutnese Translation
 ***–| add german-cu & Ander428 as collaborators |–***
+I honestly  totally forgot to upload the URL, so I will use a ONE LATE DAY on this one. It was uploaded to Github on time though, so not sure how that works.
 
 1)
 a. Michael Bertagna
