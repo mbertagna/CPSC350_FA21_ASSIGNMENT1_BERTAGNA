@@ -149,8 +149,8 @@ string Model::translateSingleCharacter(char charInput){
       break;
     //default case for vowels and punctuation (remain the same)
     default:
-    tutneseString += charInput;
-    break;
+      tutneseString += charInput;
+      break;
   }
   return tutneseString;
 }
